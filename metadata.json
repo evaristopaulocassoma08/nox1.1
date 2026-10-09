@@ -1,0 +1,6 @@
+{
+  "name": "Doity - Plataforma de Eventos",
+  "description": "Clone completo da plataforma para eventos Doity: crie, divulgue e opere seu evento com autonomia, do site ao certificado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
